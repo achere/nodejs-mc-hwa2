@@ -65,7 +65,7 @@ Accepts POST, GET, PUT and DELETE requests.
 ```
 
 - GET request should contain user email in the URL and header "token" : "/*token you got from logging in*/" - explained below.
-Example: **users/?email=johndoe@mail.com**
+Example: **/users?email=johndoe@mail.com**
 
 - PUT request to edit a user should also contain header and payload with required email and optional name, address, password (similar to POST example).
 
