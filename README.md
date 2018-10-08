@@ -1,5 +1,5 @@
 # Node js Master Class Homework assignment #2
-##PIZZA LODGE
+## PIZZA LODGE
 
 **API for making Pizza orders**
 
